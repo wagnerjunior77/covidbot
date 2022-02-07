@@ -1,0 +1,17 @@
+2020-05-20 18:07:54,671 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-20 18:07:54,671 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Dinopc\PycharmProjects\COVIDBot\venv\lib\site-packages\instabot\bot\bot.py
+2020-05-20 18:07:54,672 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-20 18:07:54,672 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-20 18:07:54,672 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbot3_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=5f927b03-354b-48b0-a041-eb08fb1cfcf5
+- uuid=1399dee0-0d78-427e-a902-c4b1ff3af25e
+- client_session_id=21ffaf3f-e160-48af-95cf-cf9f5da3190e
+- device_id=android-b8ee0833164008e9
+2020-05-20 18:07:54,673 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-20 18:07:55,540 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-20 18:07:56,023 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-20 18:07:56,029 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'covidbot3'!
+2020-05-20 18:07:56,029 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbot3.checkpoint
+2020-05-20 18:08:03,530 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbot3.checkpoint
+2020-05-20 18:08:03,534 - instabot version: 0.117.0 (bot) - INFO - Total requests: 2

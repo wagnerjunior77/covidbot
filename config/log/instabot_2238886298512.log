@@ -1,0 +1,86 @@
+2020-05-20 21:00:38,621 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-20 21:00:38,621 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Dinopc\PycharmProjects\COVIDBot\venv\lib\site-packages\instabot\bot\bot.py
+2020-05-20 21:00:38,654 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-20 21:00:38,655 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-20 21:00:38,655 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=34d2b071-c184-485a-9c30-d3edf26c987a
+- uuid=5b692fe7-879c-409e-a261-3b2ff54ec789
+- client_session_id=39648082-964c-482b-ad77-c08a35c63bc5
+- device_id=android-3c58beea084e55de
+2020-05-20 21:00:38,656 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-20 21:00:39,067 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [403]>
+2020-05-20 21:00:39,068 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:39,068 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:39,372 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [403]>
+2020-05-20 21:00:39,372 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:39,372 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:39,686 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [403]>
+2020-05-20 21:00:39,686 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:39,686 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:40,002 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [403]>
+2020-05-20 21:00:40,002 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:40,002 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:40,309 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [403]>
+2020-05-20 21:00:40,309 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:40,309 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:40,613 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [403]>
+2020-05-20 21:00:40,613 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:40,613 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:40,916 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [403]>
+2020-05-20 21:00:40,916 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:40,916 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:41,220 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [403]>
+2020-05-20 21:00:41,220 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:41,220 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:41,515 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [403]>
+2020-05-20 21:00:41,515 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "login_required", "error_title": "You\'ve Been Logged Out", "error_body": "Please log back in.", "logout_reason": 8, "status": "fail"}'
+2020-05-20 21:00:41,515 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-05-20 21:00:41,521 - instabot version: 0.117.0 (api) - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-05-20 21:00:41,522 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-20 21:00:41,522 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-20 21:00:41,522 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=34d2b071-c184-485a-9c30-d3edf26c987a
+- uuid=5b692fe7-879c-409e-a261-3b2ff54ec789
+- client_session_id=41fbd72a-504d-41ec-a8eb-79afab015251
+- device_id=android-3c58beea084e55de
+2020-05-20 21:00:41,522 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-05-20 21:00:41,868 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-05-20 21:00:42,167 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-05-20 21:00:42,480 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-05-20 21:00:42,818 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-05-20 21:00:44,152 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-05-20 21:00:44,152 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'covidnews_br'!
+2020-05-20 21:00:44,152 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-20 21:00:44,479 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-05-20 21:00:44,786 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-05-20 21:00:45,099 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-3c58beea084e55de&token_hash=&custom_device_id=android-3c58beea084e55de&fetch_reason=token_expired returned response: <Response [200]>
+2020-05-20 21:00:45,429 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-05-20 21:00:45,757 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-05-20 21:00:46,252 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2020-05-20 21:00:46,564 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-05-20 21:00:47,160 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-20 21:00:47,929 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-20 21:00:48,247 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-05-20 21:00:48,754 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-05-20 21:00:49,064 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-05-20 21:00:49,407 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-05-20 21:00:49,726 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-05-20 21:00:50,018 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-05-20 21:00:50,335 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-05-20 21:00:50,640 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2020-05-20 21:00:50,956 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-05-20 21:00:51,268 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2020-05-20 21:00:51,733 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/36017692338/info/ returned response: <Response [200]>
+2020-05-20 21:00:52,051 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-05-20 21:00:52,376 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2020-05-20 21:00:52,698 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2020-05-20 21:00:53,874 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=41fbd72a-504d-41ec-a8eb-79afab015251&include_fixed_destinations=true returned response: <Response [200]>
+2020-05-20 21:00:54,201 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2020-05-20 21:00:54,588 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2020-05-20 21:00:54,594 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-20 21:01:02,401 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [403]>
+2020-05-20 21:01:02,401 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '1-brazildata.jpg' is not uploaded.
+2020-05-20 21:01:02,402 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-20 21:01:02,407 - instabot version: 0.117.0 (bot) - INFO - Total requests: 113

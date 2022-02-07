@@ -1,0 +1,57 @@
+2020-05-19 02:07:13,582 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-19 02:07:13,583 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Dinopc\PycharmProjects\COVIDBot\venv\lib\site-packages\instabot\bot\bot.py
+2020-05-19 02:07:13,584 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-19 02:07:13,584 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-19 02:07:13,585 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=34d2b071-c184-485a-9c30-d3edf26c987a
+- uuid=5b692fe7-879c-409e-a261-3b2ff54ec789
+- client_session_id=90e14f8c-1df5-4083-9eb4-ec546b3deaab
+- device_id=android-3c58beea084e55de
+2020-05-19 02:07:13,586 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-19 02:07:15,376 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-19 02:07:15,987 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-19 02:07:15,994 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'covidnews_br'!
+2020-05-19 02:07:15,995 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:07:44,490 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:07:45,336 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:07:45,338 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 02:08:06,754 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:08:07,218 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:08:07,219 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 02:08:28,531 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:08:29,309 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:08:29,310 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'worlddata.jpg' is uploaded.
+2020-05-19 02:08:39,315 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-19 02:08:39,316 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Dinopc\PycharmProjects\COVIDBot\venv\lib\site-packages\instabot\bot\bot.py
+2020-05-19 02:08:39,317 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-19 02:08:39,317 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-19 02:08:39,318 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=34d2b071-c184-485a-9c30-d3edf26c987a
+- uuid=5b692fe7-879c-409e-a261-3b2ff54ec789
+- client_session_id=90e14f8c-1df5-4083-9eb4-ec546b3deaab
+- device_id=android-3c58beea084e55de
+2020-05-19 02:08:39,319 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-19 02:08:40,085 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-19 02:08:40,742 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-19 02:08:40,749 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'covidnews_br'!
+2020-05-19 02:08:40,749 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:02,987 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,016 - instabot version: 0.117.0 (bot) - INFO - Total requests: 73
+2020-05-19 02:09:03,017 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,023 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79
+2020-05-19 02:09:03,024 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,028 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79
+2020-05-19 02:09:03,029 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,222 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79
+2020-05-19 02:09:03,223 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,228 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79
+2020-05-19 02:09:03,228 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,232 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79
+2020-05-19 02:09:03,233 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,236 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79
+2020-05-19 02:09:03,237 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,240 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79
+2020-05-19 02:09:03,241 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidnews_br.checkpoint
+2020-05-19 02:09:03,244 - instabot version: 0.117.0 (bot) - INFO - Total requests: 79

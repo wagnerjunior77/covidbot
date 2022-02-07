@@ -1,0 +1,14 @@
+2020-05-19 04:02:42,150 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-19 04:02:42,150 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Dinopc\PycharmProjects\COVIDBot\venv\lib\site-packages\instabot\bot\bot.py
+2020-05-19 04:02:42,151 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-05-19 04:02:42,489 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-05-19 04:02:42,796 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-05-19 04:02:43,083 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-05-19 04:02:43,430 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-05-19 04:02:46,100 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2020-05-19 04:02:46,100 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "The password you entered is incorrect. Please try again.", "invalid_credentials": true, "error_title": "Incorrect password for user", "buttons": [{"title": "Try Again", "action": "dismiss"}], "status": "fail", "error_type": "bad_password"}'
+2020-05-19 04:02:46,100 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-05-19 04:02:46,100 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: The password you entered is incorrect. Please try again.
+2020-05-19 04:02:46,100 - instabot version: 0.117.0 (api) - INFO - Error type: bad_password
+2020-05-19 04:02:46,100 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2020-05-19 04:02:46,100 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.

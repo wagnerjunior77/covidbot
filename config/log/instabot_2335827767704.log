@@ -1,0 +1,18 @@
+2020-05-19 03:23:12,305 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-19 03:23:12,305 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Dinopc\PycharmProjects\COVIDBot\venv\lib\site-packages\instabot\bot\bot.py
+2020-05-19 03:23:12,306 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-19 03:23:12,306 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-19 03:23:12,306 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbotso2_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=19ae2115-b0fb-4bf0-aca4-79b92e251c69
+- uuid=0548a394-852f-451c-ae22-9b6d6f274513
+- client_session_id=1e7f0f7a-4def-47c7-b41d-de37e85066a7
+- device_id=android-72d1e2b00e3a6fe1
+2020-05-19 03:23:12,314 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-19 03:23:13,962 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-19 03:23:14,849 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-19 03:23:14,853 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'covidbotso2'!
+2020-05-19 03:23:14,853 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbotso2.checkpoint
+2020-05-19 03:23:44,152 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:23:44,677 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:23:44,678 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.

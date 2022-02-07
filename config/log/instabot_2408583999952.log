@@ -1,0 +1,77 @@
+2020-05-19 02:46:46,845 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-19 02:46:46,846 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Dinopc\PycharmProjects\COVIDBot\venv\lib\site-packages\instabot\bot\bot.py
+2020-05-19 02:46:46,847 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-19 02:46:46,847 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-19 02:46:46,847 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbotso2_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=19ae2115-b0fb-4bf0-aca4-79b92e251c69
+- uuid=0548a394-852f-451c-ae22-9b6d6f274513
+- client_session_id=5ce959ef-598e-4384-b908-bb3a73e983aa
+- device_id=android-72d1e2b00e3a6fe1
+2020-05-19 02:46:46,848 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-19 02:46:48,229 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-19 02:46:48,913 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-19 02:46:48,919 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'covidbotso2'!
+2020-05-19 02:46:48,919 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbotso2.checkpoint
+2020-05-19 02:47:13,229 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:47:13,806 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:47:13,807 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 02:48:04,607 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:48:05,120 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:48:05,121 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 02:48:56,041 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:48:56,648 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:48:56,650 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'worlddata.jpg' is uploaded.
+2020-05-19 02:50:14,843 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:50:15,424 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:50:15,425 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 02:51:04,711 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:51:05,176 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:51:05,177 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 02:51:52,887 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:51:53,435 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:51:53,436 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'worlddata.jpg' is uploaded.
+2020-05-19 02:53:15,330 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:53:15,863 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:53:15,864 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 02:53:58,982 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:53:59,531 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:53:59,532 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 02:54:47,983 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:54:48,518 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:54:48,519 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'worlddata.jpg' is uploaded.
+2020-05-19 02:56:11,244 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:56:11,607 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:56:11,608 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 02:57:02,770 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:57:03,291 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:57:03,292 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 02:57:53,102 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:57:53,601 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:57:53,602 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'worlddata.jpg' is uploaded.
+2020-05-19 02:59:18,963 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 02:59:19,818 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 02:59:19,818 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 03:00:06,710 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:00:07,208 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:00:07,209 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 03:00:48,318 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:00:48,738 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:00:48,739 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'worlddata.jpg' is uploaded.
+2020-05-19 03:02:10,368 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:02:11,444 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:02:11,445 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 03:02:53,155 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:02:53,723 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:02:53,724 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 03:03:47,345 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:03:48,117 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:03:48,118 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'worlddata.jpg' is uploaded.
+2020-05-19 03:05:10,538 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:05:11,623 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:05:11,624 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'brazildata.jpg' is uploaded.
+2020-05-19 03:05:58,305 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-19 03:05:58,822 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-19 03:05:58,823 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'grafico.jpg' is uploaded.
+2020-05-19 03:06:42,337 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Dinopc\PycharmProjects\COVIDBot/config/covidbotso2.checkpoint
+2020-05-19 03:06:42,349 - instabot version: 0.117.0 (bot) - INFO - Total requests: 71
